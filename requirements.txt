@@ -1,0 +1,8 @@
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Optional: only needed for JS-rendered stores (see supermarket_parser/stores/plus.py)
+# playwright>=1.40
+
+# Dev/test only
+pytest>=7.4

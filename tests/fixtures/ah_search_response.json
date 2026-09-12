@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "webshopId": 522210,
+      "title": "AH Halfvolle melk",
+      "brand": "AH",
+      "priceBeforeBonus": 1.19,
+      "currentPrice": 1.19,
+      "unitPriceDescription": "€1.19 per l",
+      "salesUnitSize": "1 l",
+      "images": [{"url": "https://static.ah.nl/dam/product/AHI_522210.png", "width": 800, "height": 800}],
+      "mainCategory": "Zuivel, plantaardig en eieren",
+      "isBonus": false,
+      "availableOnline": true,
+      "orderAvailabilityStatus": "IN_ASSORTMENT"
+    },
+    {
+      "webshopId": 522211,
+      "title": "Campina Volle melk",
+      "brand": "Campina",
+      "priceBeforeBonus": 1.69,
+      "currentPrice": 1.39,
+      "unitPriceDescription": "€1.39 per l",
+      "salesUnitSize": "1 l",
+      "images": [{"url": "https://static.ah.nl/dam/product/AHI_522211.png"}],
+      "mainCategory": "Zuivel, plantaardig en eieren",
+      "isBonus": true,
+      "availableOnline": true,
+      "orderAvailabilityStatus": "IN_ASSORTMENT"
+    }
+  ],
+  "page": {"totalElements": 2, "totalPages": 1}
+}

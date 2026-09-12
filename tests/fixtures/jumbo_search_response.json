@@ -1,0 +1,37 @@
+{
+  "products": {
+    "data": [
+      {
+        "id": "123456",
+        "title": "Halfvolle melk",
+        "brand": "Jumbo",
+        "quantity": "1 l",
+        "prices": {
+          "price": {"amount": 119, "currency": "EUR"},
+          "promoPrice": null,
+          "pricePerUnit": {"unit": "l", "price": {"amount": 119}}
+        },
+        "imageInfo": {"primaryView": [{"url": "https://www.jumbo.com/images/123456.png"}]},
+        "category": "Zuivel",
+        "available": true,
+        "link": "/producten/123456/halfvolle-melk"
+      },
+      {
+        "id": "123457",
+        "title": "Volle melk",
+        "brand": "Jumbo",
+        "quantity": "1 l",
+        "prices": {
+          "price": {"amount": 169, "currency": "EUR"},
+          "promoPrice": {"amount": 139, "currency": "EUR"},
+          "pricePerUnit": {"unit": "l", "price": {"amount": 139}}
+        },
+        "imageInfo": {"primaryView": [{"url": "https://www.jumbo.com/images/123457.png"}]},
+        "category": "Zuivel",
+        "available": true,
+        "link": "/producten/123457/volle-melk"
+      }
+    ],
+    "count": 2
+  }
+}
